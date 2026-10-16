@@ -14,7 +14,7 @@ A robust multimodal deep learning system that bridges visual perception and natu
 
 \* \*\*Abhishek Mundanat\*\* (PES1UG24AM012)\[cite: 3]
 
-\* \*\*Ankitha\*\* (PES1UG24AM044)\[cite: 3]
+\* \*\*Ankitha Revadala\*\* (PES1UG24AM044)\[cite: 3]
 
 
 
